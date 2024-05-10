@@ -16,7 +16,7 @@ git clone https://github.com/crifan/iOSBypassJailbreak.git
 
 ## 项目功能
 
-`iOSBypassJailbreak`是一个用[iOSOpenDev](https://github.com/kokoabim/iOSOpenDev)+`Xcode`开发的iOS越狱插件的项目源码，用于实现`反越狱检测`。
+`iOSBypassJailbreak`是一个用[iOSOpenDev](https://github.com/ox1111/iOSOpenDev)+`Xcode`开发的iOS越狱插件的项目源码，用于实现`反越狱检测`。
 
 ## 如何编译出越狱插件tweak
 
